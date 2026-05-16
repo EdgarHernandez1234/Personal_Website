@@ -104,6 +104,10 @@ body {
     background-color: #fff3cd;
     color: #856404;
 }
+.status-badge.complete {
+    background-color: #d4edda;
+    color: #155724;
+}
 
 /* Contact Section */
 .contact-section {
