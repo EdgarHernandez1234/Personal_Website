@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #f8f9fa;
+    background-color: #87c0fa;
     color: #333;
     line-height: 1.6;
 }
@@ -20,7 +20,7 @@ body {
 
 /* Intro Section */
 .intro-section {
-    background-color: #ffffff;
+    background-color: #fff8f8;
     border-bottom: 1px solid #eaeaea;
     text-align: center;
     padding: 60px 0;
